@@ -6,4 +6,10 @@
     </style>
 
     <style name="Theme.FinalLabMobile2024" parent="Base.Theme.FinalLabMobile2024" />
+
+    <!--Splashscreen-->
+    <style name="SplashScreen" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_screen</item>
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimary</item>
+    </style>
 </resources>

@@ -2,4 +2,8 @@
     <string name="app_name">FinalLabMobile2024</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="youtube_api">AIzaSyA2hh2vB5FqXPDbmt7XJZOLpt94u4QJM0E</string>
+    <string name="Add_Head">Add your space-notes here</string>
+    <string name="Add_Body">Add Image here</string>
+    <string name="Add_desc">Add The description Here</string>
 </resources>

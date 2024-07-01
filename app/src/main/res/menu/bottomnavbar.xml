@@ -7,5 +7,8 @@
     <item android:title="Item"
         android:icon="@drawable/baseline_insert_photo_24"
         android:id="@+id/buttonmid"/>
+    <item android:title="Add"
+        android:icon="@drawable/baseline_add_a_photo_24"
+        android:id="@+id/buttonright"/>
 
 </menu>
